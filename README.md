@@ -1,5 +1,5 @@
 # Minishell
-A shell to geek around your computer
+A shell to geek around your computer.
 This is an Ecole 42 common core project.
 
 # How to use:
